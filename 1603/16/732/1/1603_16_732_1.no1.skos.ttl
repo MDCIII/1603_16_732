@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:732()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bojador"@eng-Latn ,
         "Boujdour"@eng-Latn ;
-    wdata:q7200235 "EH01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -47,7 +45,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Es Semara"@eng-Latn ,
         "Smara"@eng-Latn ;
-    wdata:q7200235 "EH02" ;
 .
 
 <urn:mdciii:1603:16:732:1:3>
@@ -58,7 +55,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "El Aaiún"@eng-Latn ,
         "Laayoune"@eng-Latn ;
-    wdata:q7200235 "EH03" ;
 .
 
 <urn:mdciii:1603:16:732:1:4>
@@ -70,6 +66,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ed Dakhla"@eng-Latn ,
         "Oued Eddahab"@eng-Latn ,
         "Oued el Dahab"@eng-Latn ;
-    wdata:q7200235 "EH04" ;
 .
 
